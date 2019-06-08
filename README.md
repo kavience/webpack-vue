@@ -1,6 +1,6 @@
 ## webpack手动搭建Vue项目
 -----------------------
-#### 初始化项目
+### 初始化项目
 新建一个目录，然后初始化项目
 ```
 npm init
@@ -216,9 +216,11 @@ npm run build
 不出意外的话会在根目录下生成dist文件，可以在文件夹中之间打开该文件，显示红色的**Hello Vue & Webpack!**字样
 
 ### 结语
-之前也是一般选用框架自带的脚手架工具，趁着端午有时间，主动配置一下webpack & Vue，当然以上只是一些简单的配置，更复杂的配置还需要修改webpack配置，有时间再补充。另外一篇[配置webpack & React](https://github.com/kavience/webpack-vue)。
+之前也是一般选用框架自带的脚手架工具，趁着端午有时间，主动配置一下webpack & Vue，当然以上只是一些简单的配置，更复杂的配置还需要修改webpack配置，有时间再补充。另外一篇[配置webpack & React](https://github.com/kavience/webpack-react)。
 
+项目GitHub地址：https://github.com/kavience/webpack-vue
 
+(完)
 
 
 
